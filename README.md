@@ -1,2 +1,2 @@
-# Local-Comics-to-read
+# LocalComics
 本地图片阅读器
