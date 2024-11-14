@@ -1,0 +1,16 @@
+# Binaries
+bin/
+bin-int/
+
+# res
+Source/res/assets/
+Source/res/Fonts/
+
+
+
+# Visual Studio files and folder
+.vs/
+**.sln
+**.vcxproj
+**.vcxproj.filters
+**.vcxproj.user
